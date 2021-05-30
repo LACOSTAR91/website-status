@@ -1,0 +1,19 @@
+{
+  "name": "status-bot",
+  "version": "1.0.0",
+  "description": "A discord bot for ping website and have the status and the latence of the website",
+  "main": "index.js",
+  "dependencies": {
+    "async": "^3.2.0",
+    "discord-buttons": "^2.4.1",
+    "discord.js": "^12.5.3",
+    "tcp-ping": "^0.1.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["status-bot", "discord-bot", "web-status"],
+  "author": "LACOSTAR91",
+  "license": "MIT"
+}
